@@ -47,7 +47,7 @@ namespace Impostor.Api.Innersloth.Maps
                 new MiraTask(MiraTask.Ids.ReactorStartReactor, TaskTypes.StartReactor, TaskCategories.LongTask),
                 new MiraTask(MiraTask.Ids.ElectricalDivertPowerToGreenhouse, TaskTypes.DivertPower, TaskCategories.ShortTask),
                 new MiraTask(MiraTask.Ids.AdminChartCourse, TaskTypes.ChartCourse, TaskCategories.ShortTask),
-                new MiraTask(MiraTask.Ids.GreenhouseCleanO2Filter, TaskTypes.Filter, TaskCategories.ShortTask),
+                new MiraTask(MiraTask.Ids.GreenhouseCleanO2Filter, TaskTypes.CleanO2Filter, TaskCategories.ShortTask),
                 new MiraTask(MiraTask.Ids.LaunchpadFuelEngines, TaskTypes.FuelEngines, TaskCategories.ShortTask),
                 new MiraTask(MiraTask.Ids.LaboratoryAssembleArtifact, TaskTypes.AssembleArtifact, TaskCategories.ShortTask),
                 new MiraTask(MiraTask.Ids.LaboratorySortSamples, TaskTypes.SortSamples, TaskCategories.ShortTask),

@@ -55,7 +55,7 @@ namespace Impostor.Api.Innersloth.Maps
                 new PolusTask(PolusTask.Ids.CommunicationsRebootWiFi, TaskTypes.RebootWifi, TaskCategories.LongTask),
                 new PolusTask(PolusTask.Ids.O2MonitorTree, TaskTypes.MonitorOxygen, TaskCategories.ShortTask),
                 new PolusTask(PolusTask.Ids.SpecimenRoomUnlockManifolds, TaskTypes.UnlockManifolds, TaskCategories.ShortTask),
-                new PolusTask(PolusTask.Ids.SpecimenRoomStoreArtifacts, TaskTypes.StoreArtifact, TaskCategories.ShortTask),
+                new PolusTask(PolusTask.Ids.SpecimenRoomStoreArtifacts, TaskTypes.StoreArtifacts, TaskCategories.ShortTask),
                 new PolusTask(PolusTask.Ids.O2FillCanisters, TaskTypes.FillCanisters, TaskCategories.ShortTask),
                 new PolusTask(PolusTask.Ids.O2EmptyGarbage, TaskTypes.EmptyGarbage, TaskCategories.ShortTask),
                 new PolusTask(PolusTask.Ids.DropshipChartCourse, TaskTypes.ChartCourse, TaskCategories.ShortTask),

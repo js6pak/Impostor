@@ -76,7 +76,7 @@ namespace Impostor.Plugins.Example.Handlers
                 await e.PlayerControl.SetColorAsync(ColorType.Pink);
                 await e.PlayerControl.SetHatAsync(HatType.Cheese);
                 await e.PlayerControl.SetSkinAsync(SkinType.Police);
-                await e.PlayerControl.SetPetAsync(PetType.Ufo);
+                await e.PlayerControl.SetPetAsync(PetType.UFO);
             }
 
             if (e.Message == "snap")

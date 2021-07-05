@@ -49,7 +49,7 @@ namespace Impostor.Api.Innersloth.Maps
                 new SkeldTask(SkeldTask.Ids.CommunicationsDownloadData, TaskTypes.UploadData, TaskCategories.ShortTask),
                 new SkeldTask(SkeldTask.Ids.ElectricalCalibrateDistributor, TaskTypes.CalibrateDistributor, TaskCategories.ShortTask),
                 new SkeldTask(SkeldTask.Ids.NavigationChartCourse, TaskTypes.ChartCourse, TaskCategories.ShortTask),
-                new SkeldTask(SkeldTask.Ids.O2CleanO2Filter, TaskTypes.Filter, TaskCategories.ShortTask),
+                new SkeldTask(SkeldTask.Ids.O2CleanO2Filter, TaskTypes.CleanO2Filter, TaskCategories.ShortTask),
                 new SkeldTask(SkeldTask.Ids.ReactorUnlockManifolds, TaskTypes.UnlockManifolds, TaskCategories.ShortTask),
                 new SkeldTask(SkeldTask.Ids.ElectricalDownloadData, TaskTypes.UploadData, TaskCategories.ShortTask),
                 new SkeldTask(SkeldTask.Ids.NavigationStabilizeSteering, TaskTypes.StabilizeSteering, TaskCategories.ShortTask),
